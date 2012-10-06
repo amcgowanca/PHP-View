@@ -1,2 +1,4 @@
-View: A simple PHP class used for rendering Templates
-=====================================================
+View
+====
+
+View is a simple PHP class that provides the capabilities to render external template files.
